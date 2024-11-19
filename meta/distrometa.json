@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/ghq/github.com/UzushikaMinecraft/modpacks/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1044298618921816094",
+      "smallImageText": "TokiwaLauncher",
+      "smallImageKey": "https://i.imgur.com/LoOZOnZ.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/ghq/github.com/UzushikaMinecraft/modpacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Stella",
+    "description": "Minecraft 1.20.1 (Forge v47.3.11)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "https://i.imgur.com/yhJSLtf.png"
+    },
+    "mainServer": false, 
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.11"
+  },
+  "untrackedFiles": []
+}
