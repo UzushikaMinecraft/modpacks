@@ -6,7 +6,7 @@
 cd Nebula
 ```
 
-### 環境変数 (例)
+### .env
 ```env
 JAVA_EXECUTABLE=c:\Program Files\Java\jdk-22\bin\java.exe
 ROOT=C:\ghq\github.com\UzushikaMinecraft\modpacks
