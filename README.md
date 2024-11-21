@@ -1,8 +1,9 @@
 # modpacks
 
-## Nebulaの使い方
+## ModPackの更新方法
 
 ```sh
+ghq get https://github.com/UzushikaMinecraft/modpacks
 cd Nebula
 ```
 
@@ -11,7 +12,7 @@ cd Nebula
 JAVA_EXECUTABLE=c:\Program Files\Java\jdk-22\bin\java.exe
 ROOT=C:\ghq\github.com\UzushikaMinecraft\modpacks
 BASE_URL=https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/
-HELIOS_DATA_FOLDER=C:\Users\iamta\AppData\Roaming\.uzushikalauncher
+HELIOS_DATA_FOLDER=C:\Users\user\AppData\Roaming\.uzushikalauncher
 ```
 
 ### 依存関係のインストール
