@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1203688932542517279",
-    "smallImageText": "UzushikaLauncher",
-    "smallImageKey": "https://raw.githubusercontent.com/UzushikaMinecraft/uzushikaminecraft.github.io/refs/heads/main/assets/server-icon.jpg"
+    "clientId": "1044298618921816094",
+    "smallImageText": "TokiwaLauncher",
+    "smallImageKey": "https://i.imgur.com/LoOZOnZ.png"
   },
   "servers": [
     {
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "Minecraft",
         "largeImageText": "Minecraft",
-        "largeImageKey": "https://i.imgur.com/yhJSLtf.png"
+        "largeImageKey": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5e/Grass_Block_BE3.png/revision/latest?cb=20200830160147"
       },
       "mainServer": false,
       "autoconnect": false,
