@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///C:/ghq/github.com/UzushikaMinecraft/modpacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Vanilla",
+    "description": "Minecraft 1.21.1 (Forge v52.0.28)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5e/Grass_Block_BE3.png/revision/latest?cb=20200830160147"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}

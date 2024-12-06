@@ -1026,6 +1026,585 @@
           }
         }
       ]
+    },
+    {
+      "id": "Vanilla-1.21.1",
+      "name": "Vanilla",
+      "description": "Minecraft 1.21.1 (Forge v52.0.28)",
+      "icon": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/pack.png",
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "Minecraft",
+        "largeImageText": "Minecraft",
+        "largeImageKey": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5e/Grass_Block_BE3.png/revision/latest?cb=20200830160147"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "BSLClassic_v8.3.zip",
+          "name": "BSLClassic_v8.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1101938,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/BSLClassic_v8.3.zip",
+            "MD5": "3ae1add29061f707a950a05a76e9fb15",
+            "path": "shaderpacks/BSLClassic_v8.3.zip"
+          }
+        },
+        {
+          "id": "BSLOriginal_v8.3.zip",
+          "name": "BSLOriginal_v8.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1101937,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/BSLOriginal_v8.3.zip",
+            "MD5": "44896d98f77f67c3f719b55ca1aa0d07",
+            "path": "shaderpacks/BSLOriginal_v8.3.zip"
+          }
+        },
+        {
+          "id": "BeyondBeliefLegacy_V1.2.3.zip",
+          "name": "BeyondBeliefLegacy_V1.2.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 541701,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/BeyondBeliefLegacy_V1.2.3.zip",
+            "MD5": "35e81a7de10bea9ef74b603b2830428d",
+            "path": "shaderpacks/BeyondBeliefLegacy_V1.2.3.zip"
+          }
+        },
+        {
+          "id": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1669167,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "MD5": "fb757db17e378d3174611d4d0698280d",
+            "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+          }
+        },
+        {
+          "id": "Body Camera Shader - V1.2.1.zip",
+          "name": "Body Camera Shader - V1.2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 52169,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Body%20Camera%20Shader%20-%20V1.2.1.zip",
+            "MD5": "c30f9420a639d7ed6f67bc0bc0841a1f",
+            "path": "shaderpacks/Body Camera Shader - V1.2.1.zip"
+          }
+        },
+        {
+          "id": "Boovlermentary 1.0.zip",
+          "name": "Boovlermentary 1.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 204971,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Boovlermentary%201.0.zip",
+            "MD5": "f4a92308dfe1537e4fe810d692f9dfbc",
+            "path": "shaderpacks/Boovlermentary 1.0.zip"
+          }
+        },
+        {
+          "id": "CTMPOMFIX 1.8.5  beta (Chocapic13' Shaders edit).zip",
+          "name": "CTMPOMFIX 1.8.5  beta (Chocapic13' Shaders edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 3846290,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/CTMPOMFIX%201.8.5%20%20beta%20(Chocapic13'%20Shaders%20edit).zip",
+            "MD5": "df7512d2f6b53bb7cf9063afdb404b00",
+            "path": "shaderpacks/CTMPOMFIX 1.8.5  beta (Chocapic13' Shaders edit).zip"
+          }
+        },
+        {
+          "id": "Chocapic13_HighPerformance_Toaster.zip",
+          "name": "Chocapic13_HighPerformance_Toaster.zip",
+          "type": "File",
+          "artifact": {
+            "size": 98962,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Chocapic13_HighPerformance_Toaster.zip",
+            "MD5": "88df9af20bcabd6bf4f6a7c565cb824c",
+            "path": "shaderpacks/Chocapic13_HighPerformance_Toaster.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.zip",
+          "name": "Chocapic13_V9.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14149623,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Chocapic13_V9.zip",
+            "MD5": "370978c21f154a0022c4d5b5703b790b",
+            "path": "shaderpacks/Chocapic13_V9.zip"
+          }
+        },
+        {
+          "id": "CilokGaming+GI+Shaders E12 Build 2.zip",
+          "name": "CilokGaming+GI+Shaders E12 Build 2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 104799,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/CilokGaming+GI+Shaders%20E12%20Build%202.zip",
+            "MD5": "f039c1c0c995461f58e61ea591902ec1",
+            "path": "shaderpacks/CilokGaming+GI+Shaders E12 Build 2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441683,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "DrDestens MinecraftShaders v2.0.4.zip",
+          "name": "DrDestens MinecraftShaders v2.0.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 127314,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/DrDestens%20MinecraftShaders%20v2.0.4.zip",
+            "MD5": "60d672f5d90fe74c27d31cbf4bb7bcf7",
+            "path": "shaderpacks/DrDestens MinecraftShaders v2.0.4.zip"
+          }
+        },
+        {
+          "id": "Exposa 4.13 Release.zip",
+          "name": "Exposa 4.13 Release.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4364944,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Exposa%204.13%20Release.zip",
+            "MD5": "c42a5c60991eeb097c84e1f064f476f5",
+            "path": "shaderpacks/Exposa 4.13 Release.zip"
+          }
+        },
+        {
+          "id": "FastPBR_v1.1.zip",
+          "name": "FastPBR_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1103383,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/FastPBR_v1.1.zip",
+            "MD5": "e1dfee420fabdd943af788d3855e194e",
+            "path": "shaderpacks/FastPBR_v1.1.zip"
+          }
+        },
+        {
+          "id": "Hysteria-Shaders-Universal-v1.2.1.zip",
+          "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1578052,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+            "MD5": "9cd9d2b33532f1774f7465e76b92a4e3",
+            "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip"
+          }
+        },
+        {
+          "id": "Insanity-Shader-Universal-v1.650.zip",
+          "name": "Insanity-Shader-Universal-v1.650.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1037373,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
+            "MD5": "97a61aad0133f120e536a420b92d4e88",
+            "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+          }
+        },
+        {
+          "id": "Light Shaders.zip",
+          "name": "Light Shaders.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3459670,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Light%20Shaders.zip",
+            "MD5": "5fcdc2dc9d5ff6224654d28502456413",
+            "path": "shaderpacks/Light Shaders.zip"
+          }
+        },
+        {
+          "id": "MakeUp-UltraFast-9.0a.zip",
+          "name": "MakeUp-UltraFast-9.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 357630,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/MakeUp-UltraFast-9.0a.zip",
+            "MD5": "84bb057ea44f792790c00d7aea5d5c47",
+            "path": "shaderpacks/MakeUp-UltraFast-9.0a.zip"
+          }
+        },
+        {
+          "id": "Monophonic 1.1.zip",
+          "name": "Monophonic 1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1155846,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Monophonic%201.1.zip",
+            "MD5": "9e527fdbcf033f0fdbb26c6414ade902",
+            "path": "shaderpacks/Monophonic 1.1.zip"
+          }
+        },
+        {
+          "id": "Muuf-A.G.I_Rebuild-4.zip",
+          "name": "Muuf-A.G.I_Rebuild-4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 756326,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Muuf-A.G.I_Rebuild-4.zip",
+            "MD5": "0d0669aa313bbd27bd27a5014283d35b",
+            "path": "shaderpacks/Muuf-A.G.I_Rebuild-4.zip"
+          }
+        },
+        {
+          "id": "Noble v1.7.4.zip",
+          "name": "Noble v1.7.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11340638,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Noble%20v1.7.4.zip",
+            "MD5": "7e95ca3979db20005a2680b2ead3462c",
+            "path": "shaderpacks/Noble v1.7.4.zip"
+          }
+        },
+        {
+          "id": "Nostalgia_v5.0.zip",
+          "name": "Nostalgia_v5.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1843622,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Nostalgia_v5.0.zip",
+            "MD5": "3d6203d1c170dd175c84cdafaf1b08e4",
+            "path": "shaderpacks/Nostalgia_v5.0.zip"
+          }
+        },
+        {
+          "id": "OPAL_v1.0.0.zip",
+          "name": "OPAL_v1.0.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1039069,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/OPAL_v1.0.0.zip",
+            "MD5": "cde42d5281bed266aa6f69c259d1cdc1",
+            "path": "shaderpacks/OPAL_v1.0.0.zip"
+          }
+        },
+        {
+          "id": "PSX_MCSX.zip",
+          "name": "PSX_MCSX.zip",
+          "type": "File",
+          "artifact": {
+            "size": 61772,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/PSX_MCSX.zip",
+            "MD5": "a8aefd1d2f76791ea4631beb553b5e9f",
+            "path": "shaderpacks/PSX_MCSX.zip"
+          }
+        },
+        {
+          "id": "Pastel-Shaders-Universal-v1.200.zip",
+          "name": "Pastel-Shaders-Universal-v1.200.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1023746,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Pastel-Shaders-Universal-v1.200.zip",
+            "MD5": "f99b5764648634b39669bb25b6a8330c",
+            "path": "shaderpacks/Pastel-Shaders-Universal-v1.200.zip"
+          }
+        },
+        {
+          "id": "Pegasus v_0.0.9.zip",
+          "name": "Pegasus v_0.0.9.zip",
+          "type": "File",
+          "artifact": {
+            "size": 141990,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Pegasus%20v_0.0.9.zip",
+            "MD5": "6e72d1bd86ead29341030dcc17183877",
+            "path": "shaderpacks/Pegasus v_0.0.9.zip"
+          }
+        },
+        {
+          "id": "Pixel-Perfect-1-5-2a.zip",
+          "name": "Pixel-Perfect-1-5-2a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 7766144,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Pixel-Perfect-1-5-2a.zip",
+            "MD5": "0ca792e595bb198213fba6684592ef96",
+            "path": "shaderpacks/Pixel-Perfect-1-5-2a.zip"
+          }
+        },
+        {
+          "id": "PotatoShaders_v1.0d.zip",
+          "name": "PotatoShaders_v1.0d.zip",
+          "type": "File",
+          "artifact": {
+            "size": 393109,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/PotatoShaders_v1.0d.zip",
+            "MD5": "2925d73d563d8cb80ad49be16935049f",
+            "path": "shaderpacks/PotatoShaders_v1.0d.zip"
+          }
+        },
+        {
+          "id": "Prismarine Shader V4.3a.zip",
+          "name": "Prismarine Shader V4.3a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4387375,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Prismarine%20Shader%20V4.3a.zip",
+            "MD5": "d4315cd31175f28523e9e48c2ab1a7c8",
+            "path": "shaderpacks/Prismarine Shader V4.3a.zip"
+          }
+        },
+        {
+          "id": "RedHat_v34.3.zip",
+          "name": "RedHat_v34.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 197014,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/RedHat_v34.3.zip",
+            "MD5": "168b9257072208073f96b05e1337b56c",
+            "path": "shaderpacks/RedHat_v34.3.zip"
+          }
+        },
+        {
+          "id": "SEUS PTGI HRR 3 (1).zip",
+          "name": "SEUS PTGI HRR 3 (1).zip",
+          "type": "File",
+          "artifact": {
+            "size": 4411879,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/SEUS%20PTGI%20HRR%203%20(1).zip",
+            "MD5": "9eb234d412b057766290d9f3b3a51af3",
+            "path": "shaderpacks/SEUS PTGI HRR 3 (1).zip"
+          }
+        },
+        {
+          "id": "SEUS PTGI HRR Test 2.zip",
+          "name": "SEUS PTGI HRR Test 2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4402216,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/SEUS%20PTGI%20HRR%20Test%202.zip",
+            "MD5": "7ef0f64a0963da89b764d1ebcd1a5f97",
+            "path": "shaderpacks/SEUS PTGI HRR Test 2.zip"
+          }
+        },
+        {
+          "id": "SEUS-Renewed-v1.0.1.zip",
+          "name": "SEUS-Renewed-v1.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 7062638,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
+            "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
+            "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip"
+          }
+        },
+        {
+          "id": "Shrimple_v0.11.zip",
+          "name": "Shrimple_v0.11.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10529242,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Shrimple_v0.11.zip",
+            "MD5": "9627361018b6456c106179cbff95a42c",
+            "path": "shaderpacks/Shrimple_v0.11.zip"
+          }
+        },
+        {
+          "id": "Sildur's Basic Shaders v2.2 Fancy.zip",
+          "name": "Sildur's Basic Shaders v2.2 Fancy.zip",
+          "type": "File",
+          "artifact": {
+            "size": 27437,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Sildur's%20Basic%20Shaders%20v2.2%20Fancy.zip",
+            "MD5": "941ab94fd3d4758d4a3f63adf7b7992b",
+            "path": "shaderpacks/Sildur's Basic Shaders v2.2 Fancy.zip"
+          }
+        },
+        {
+          "id": "Sildur's Enhanced Default v1.16 Fancy.zip",
+          "name": "Sildur's Enhanced Default v1.16 Fancy.zip",
+          "type": "File",
+          "artifact": {
+            "size": 35839,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Sildur's%20Enhanced%20Default%20v1.16%20Fancy.zip",
+            "MD5": "4ef8484174d800ad0d98c133e8463b00",
+            "path": "shaderpacks/Sildur's Enhanced Default v1.16 Fancy.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142239,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip",
+            "MD5": "cffbb5d1e720f96358ab2173c72b938a",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
+          }
+        },
+        {
+          "id": "SildursTFCsetup.zip",
+          "name": "SildursTFCsetup.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2112,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/SildursTFCsetup.zip",
+            "MD5": "9fe3b73d266d723a5230867b875f6d22",
+            "path": "shaderpacks/SildursTFCsetup.zip"
+          }
+        },
+        {
+          "id": "Simplicissimus_v1.3a.zip",
+          "name": "Simplicissimus_v1.3a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 94830,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Simplicissimus_v1.3a.zip",
+            "MD5": "45051c104a4fe16aa3ff56a93cce9ab4",
+            "path": "shaderpacks/Simplicissimus_v1.3a.zip"
+          }
+        },
+        {
+          "id": "Simply_Upscaled_v_0.3.5.zip",
+          "name": "Simply_Upscaled_v_0.3.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 115144,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Simply_Upscaled_v_0.3.5.zip",
+            "MD5": "90875890d7b4242dfeedc088f938455b",
+            "path": "shaderpacks/Simply_Upscaled_v_0.3.5.zip"
+          }
+        },
+        {
+          "id": "SoftVoxelsLite_v2.0.zip",
+          "name": "SoftVoxelsLite_v2.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2132538,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/SoftVoxelsLite_v2.0.zip",
+            "MD5": "56933461afbe07f3368ab02faed313f5",
+            "path": "shaderpacks/SoftVoxelsLite_v2.0.zip"
+          }
+        },
+        {
+          "id": "Solas Shader V2.3.zip",
+          "name": "Solas Shader V2.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1244539,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Solas%20Shader%20V2.3.zip",
+            "MD5": "3f132e37c38cf7f145ca5bc186fe2aff",
+            "path": "shaderpacks/Solas Shader V2.3.zip"
+          }
+        },
+        {
+          "id": "Spooklementary_1.1.zip",
+          "name": "Spooklementary_1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 417282,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Spooklementary_1.1.zip",
+            "MD5": "81dd1e9a8f4bedb1a5828e4a963c05f1",
+            "path": "shaderpacks/Spooklementary_1.1.zip"
+          }
+        },
+        {
+          "id": "TFG-Shaders-v1.1.zip",
+          "name": "TFG-Shaders-v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 18120,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/TFG-Shaders-v1.1.zip",
+            "MD5": "0d5a0ea5f71395b18d9ae9d2edc79e66",
+            "path": "shaderpacks/TFG-Shaders-v1.1.zip"
+          }
+        },
+        {
+          "id": "Tritan_Shader.zip",
+          "name": "Tritan_Shader.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1398,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Tritan_Shader.zip",
+            "MD5": "b22e348b2515b9117a8faa1c41eecd6a",
+            "path": "shaderpacks/Tritan_Shader.zip"
+          }
+        },
+        {
+          "id": "UShader_v2.1.zip",
+          "name": "UShader_v2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1160344,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/UShader_v2.1.zip",
+            "MD5": "907a77a1565d12524d8ce831e8ea2b75",
+            "path": "shaderpacks/UShader_v2.1.zip"
+          }
+        },
+        {
+          "id": "Voyager shader 2.0.8.zip",
+          "name": "Voyager shader 2.0.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 368405,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/Voyager%20shader%202.0.8.zip",
+            "MD5": "2c0b9a8ea2327956d07c5c62b1515cc1",
+            "path": "shaderpacks/Voyager shader 2.0.8.zip"
+          }
+        },
+        {
+          "id": "miniature-shader-2.13.2.zip",
+          "name": "miniature-shader-2.13.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 21505,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/miniature-shader-2.13.2.zip",
+            "MD5": "760f0beeeefe4be65f4199166dff3423",
+            "path": "shaderpacks/miniature-shader-2.13.2.zip"
+          }
+        },
+        {
+          "id": "superDuperVanilla.zip",
+          "name": "superDuperVanilla.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2406816,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/superDuperVanilla.zip",
+            "MD5": "8f49b9c940a2c560664ff483b27c1886",
+            "path": "shaderpacks/superDuperVanilla.zip"
+          }
+        },
+        {
+          "id": "§9§lVanil§b§lletix §c[§f1.0.5 §bA§c BETA].zip",
+          "name": "§9§lVanil§b§lletix §c[§f1.0.5 §bA§c BETA].zip",
+          "type": "File",
+          "artifact": {
+            "size": 421574,
+            "url": "https://raw.githubusercontent.com/UzushikaMinecraft/modpacks/master/servers/Vanilla-1.21.1/files/shaderpacks/%C2%A79%C2%A7lVanil%C2%A7b%C2%A7lletix%20%C2%A7c[%C2%A7f1.0.5%20%C2%A7bA%C2%A7c%20BETA].zip",
+            "MD5": "48996dd75e0f5022b73cc88ecafb3e92",
+            "path": "shaderpacks/§9§lVanil§b§lletix §c[§f1.0.5 §bA§c BETA].zip"
+          }
+        }
+      ]
     }
   ]
 }
